@@ -1,12 +1,14 @@
 ### Uber-Supply-Demand Gap 
 Uber Supply demand gap analysis 
 ### Description
+
+Uber India is facing problem with lot’s of trip cancellation and Not Availability problem. Due to that Uber-India is bleeding revenue, even though there is good demand.
 Case study is to analyse driving factors to supply and demand gap of rides from Airport to City and City to Aiport. 
 Through analysis of data available for analysis. Find out reason and probable solution to avoid supply and demand gap.
 
 
 
-### Files
+
 # UberCaseStudy.R: 
 
     In depth and step by step process to analyse data using crisp dm framework. 
